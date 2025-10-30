@@ -17,7 +17,6 @@ If you want to learn with me or if the README instructions aren’t clear, just 
 |  | [Postman](https://github.com/Vanillalatte0908/MiniProject-DummyAPIAutomation) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyAPIAutomation) |
 |  | [CucumberJS + Supertest](https://github.com/Vanillalatte0908/MiniProject-DummyAPIAutomation) | ![Status](https://img.shields.io/badge/pipeline-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyAPIAutomation) |
 |  | [TestNG + RestAssured](https://github.com/Vanillalatte0908/otomasiapi) | ![GitHub Actions](https://img.shields.io/badge/testing-in%20progress-lightgrey) | [🔗 View Repo](https://github.com/Vanillalatte0908/otomasiapi) |
-|  | [Karate Framework](https://github.com/Vanillalatte0908/otomasiapi) | ![GitHub Actions](https://img.shields.io/badge/testing-in%20progress-lightgrey) | [🔗 View Repo](https://github.com/Vanillalatte0908/otomasiapi) |
 |  | [MochaJS + gRPC JS](https://github.com/Vanillalatte0908/poc-mocha-chai) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/poc-mocha-chai) |
 | **Performance Testing** | [Grafana K6](https://github.com/Vanillalatte0908) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | — |
 |  | [Apache JMeter](https://github.com/Vanillalatte0908) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | — |
