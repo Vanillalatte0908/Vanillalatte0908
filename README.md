@@ -22,7 +22,7 @@ If you want to learn with me or if the README instructions aren’t clear, just 
 |  | Locust | ![Status](https://img.shields.io/badge/not_ready-grey) | — |
 | **Web UI Testing** | [Robot Framework Browser](https://github.com/Vanillalatte0908/seleniumautomation) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/seleniumautomation) |
 |  | [WebdriverIO](https://github.com/Vanillalatte0908/MiniProject-DummyMobileApps) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyMobileApps) |
-|  | [Playwright](https://github.com/Vanillalatte0908/MiniProject-DummyWeb) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyMobileApps) |
+|  | [Playwright](https://github.com/Vanillalatte0908/MiniProject-DummyWeb) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyWeb) |
 |  | [Selenium](https://github.com/Vanillalatte0908/seleniumautomation) | ![Pipeline](https://img.shields.io/badge/pipeline-status-blue) | [🔗 View Repo](https://github.com/Vanillalatte0908/seleniumautomation) |
 | **Mobile UI Testing** | [WebdriverIO](https://github.com/Vanillalatte0908/MiniProject-DummyMobileApps) | ![CircleCI](https://img.shields.io/badge/build-passed-brightgreen) | [🔗 View Repo](https://github.com/Vanillalatte0908/MiniProject-DummyMobileApps) |
 |  | Katalon | ![Status](https://img.shields.io/badge/not_ready-grey) | — |
