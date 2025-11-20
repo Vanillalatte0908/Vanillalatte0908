@@ -1,8 +1,6 @@
 <!-- ========================= HEADER / BANNER ========================= -->
 
-<p align="center">
-  <img src="YOUR-BANNER-IMAGE-URL-HERE" alt="Refqi Hussein Banner" width="100%">
-</p>
+
 
 <!-- Replace YOUR-BANNER-IMAGE-URL-HERE after uploading your banner image to your repo -->
 
